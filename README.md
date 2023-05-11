@@ -1,4 +1,1 @@
-
-# Kho sách
-
-Lưu trữ các sách hay về lập trình và cuộc sống
+This is a repository folder I have forked
